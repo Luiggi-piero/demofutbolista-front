@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Franco",
+        "lastName": "Beltran",
+        "characteristics": "A pesar de su estatura promedio, Franco tiene un juego aéreo sobresaliente. Es capaz de ganar duelos de cabeza incluso contra defensores más altos, gracias a su timing y capacidad de salto."
+    },
+    {
+        "name": "Alfredo",
+        "lastName": "Torres",
+        "characteristics": "Alfredo tiene un sentido innato para encontrar el espacio justo en el área y finalizar con precisión. Su capacidad para estar en el lugar correcto en el momento adecuado lo convierte en una amenaza constante para los defensores rivales."
+    },
+    {
+        "name": "Jaime",
+        "lastName": "Lllerena",
+        "characteristics": "Con una aceleración impresionante, Jaime puede dejar atrás a los defensores en un abrir y cerrar de ojos. Su rapidez le permite desmarcarse rápidamente y superar la línea defensiva con facilidad."
+    },
+    {
+        "name": "Arturo",
+        "lastName": "Rojas",
+        "characteristics": "Posee un dominio excepcional del balón, tanto en el control como en el regate. Su habilidad para deshacerse de los defensores con fintas y movimientos elegantes lo convierte en un jugador desequilibrante en el frente de ataque."
+    },
+    {
+        "name": "Arjen",
+        "lastName": "Robben",
+        "characteristics": "Es un jugador que inspira a sus compañeros con su entrega y determinación. Siempre está dispuesto a liderar el ataque y a motivar al equipo, tanto con sus acciones como con sus palabras."
+    }
+]
