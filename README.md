@@ -7,7 +7,7 @@ React + Vite + Typescript
 * Eliminar futbolistas
 
 Instrucciones
-1. Crear la base de datos: user
+1. Crear la base de datos en MySQL con el nombre: user
 2. Tener en cuenta las credenciales de la bd para copiarlas en el backend
 3. Ejecutar backend
 4. Tener en cuenta el archivo 'datos-prueba.json' de 'recursos' para la creación de futbolistas
